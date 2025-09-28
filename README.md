@@ -6,30 +6,23 @@
   
 </div>
 
-## 🚀 About Me
-
-- 🌱 I'm currently learning **新技术栈和最佳实践**
-- 👯 I'm looking to collaborate on **开源项目**
-- 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 How to reach me: **通过GitHub联系我**
-- ⚡ Fun fact: **代码改变世界！**
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
   <!-- GitHub统计卡片 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Not996NotOT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Not996NotOT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27"/>
   
   <!-- 语言统计卡片 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Not996NotOT&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Not996NotOT&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&langs_count=8"/>
   
 </div>
 
 <div align="center">
   
   <!-- GitHub连击统计 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Not996NotOT&theme=tokyonight" alt="Not996NotOT" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Not996NotOT&theme=tokyonight&hide_border=true&background=1A1B27" alt="Not996NotOT" />
   
 </div>
 
@@ -69,12 +62,67 @@
   
 </div>
 
+## 📊 Detailed Stats
+
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Not996NotOT&theme=tokyonight" />
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Not996NotOT&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Not996NotOT&theme=tokyonight" />
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Not996NotOT&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Not996NotOT&theme=tokyonight&utcOffset=8" />
+  
+</div>
+
 ## 📌 Pinned Repositories
 
 <div align="center">
   
   <a href="https://github.com/Not996NotOT/Not996NotOT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Not996NotOT&repo=Not996NotOT&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Not996NotOT&repo=Not996NotOT&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
+  </a>
+  <a href="https://github.com/Not996NotOT/vue-mobx-framework">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Not996NotOT&repo=vue-mobx-framework&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
+  </a>
+  
+</div>
+
+<div align="center">
+  
+  <a href="https://github.com/Not996NotOT/tailwindcss_build">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Not996NotOT&repo=tailwindcss_build&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
+  </a>
+  <a href="https://github.com/Not996NotOT/five_pointed_star">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Not996NotOT&repo=five_pointed_star&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
+  </a>
+  
+</div>
+
+<div align="center">
+  
+  <a href="https://github.com/Not996NotOT/flutter_axios">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Not996NotOT&repo=flutter_axios&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
+  </a>
+  <a href="https://github.com/Not996NotOT/react_hooks">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Not996NotOT&repo=react_hooks&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
+  </a>
+  
+</div>
+
+<div align="center">
+  
+  <a href="https://github.com/Not996NotOT/swiftui_tailwindcss">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Not996NotOT&repo=swiftui_tailwindcss&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
   </a>
   
 </div>
@@ -82,7 +130,12 @@
 ## 🌟 Featured Projects
 
 - 🚀 **[Not996NotOT](https://github.com/Not996NotOT/Not996NotOT)** - 反对996，支持加班费的倡议项目
-- 💼 更多项目正在开发中...
+- 🖼️ **[vue-mobx-framework](https://github.com/Not996NotOT/vue-mobx-framework)** - 基于Vue2, TSX, TypeScript的封装框架
+- 🎨 **[tailwindcss_build](https://github.com/Not996NotOT/tailwindcss_build)** - Flutter插件，用于TailwindCSS集成
+- ⭐ **[five_pointed_star](https://github.com/Not996NotOT/five_pointed_star)** - 简单的五角星控件(Dart)
+- 🌐 **[flutter_axios](https://github.com/Not996NotOT/flutter_axios)** - 基于Axios启发的Flutter HTTP客户端
+- ⚛️ **[react_hooks](https://github.com/Not996NotOT/react_hooks)** - Flutter中的React-like hooks实现
+- 🍃 **[swiftui_tailwindcss](https://github.com/Not996NotOT/swiftui_tailwindcss)** - SwiftUI与TailwindCSS结合
 
 ## 📫 Connect with me
 
