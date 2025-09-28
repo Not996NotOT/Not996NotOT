@@ -128,14 +128,13 @@
 </div>
 
 ## 🌟 Featured Projects
-
-- 🚀 **[Not996NotOT](https://github.com/Not996NotOT/Not996NotOT)** - 反对996，支持加班费的倡议项目
-- 🖼️ **[vue-mobx-framework](https://github.com/Not996NotOT/vue-mobx-framework)** - 基于Vue2, TSX, TypeScript的封装框架
-- 🎨 **[tailwindcss_build](https://github.com/Not996NotOT/tailwindcss_build)** - Flutter插件，用于TailwindCSS集成
-- ⭐ **[five_pointed_star](https://github.com/Not996NotOT/five_pointed_star)** - 简单的五角星控件(Dart)
-- 🌐 **[flutter_axios](https://github.com/Not996NotOT/flutter_axios)** - 基于Axios启发的Flutter HTTP客户端
-- ⚛️ **[react_hooks](https://github.com/Not996NotOT/react_hooks)** - Flutter中的React-like hooks实现
-- 🍃 **[swiftui_tailwindcss](https://github.com/Not996NotOT/swiftui_tailwindcss)** - SwiftUI与TailwindCSS结合
+- 🚀 **[Not996NotOT](https://github.com/Not996NotOT/Not996NotOT)** - Anti-996 initiative project supporting overtime compensation
+- 🖼️ **[vue-mobx-framework](https://github.com/Not996NotOT/vue-mobx-framework)** - Framework based on Vue2, TSX, and TypeScript
+- 🎨 **[tailwindcss_build](https://github.com/Not996NotOT/tailwindcss_build)** - Flutter plugin for TailwindCSS integration
+- ⭐ **[five_pointed_star](https://github.com/Not996NotOT/five_pointed_star)** - Simple five-pointed star control widget (Dart)
+- 🌐 **[flutter_axios](https://github.com/Not996NotOT/flutter_axios)** - Promise-based HTTP client for Flutter inspired by Axios
+- ⚛️ **[react_hooks](https://github.com/Not996NotOT/react_hooks)** - React-like hooks implementation for Flutter state management
+- 🍃 **[swiftui_tailwindcss](https://github.com/Not996NotOT/swiftui_tailwindcss)** - SwiftUI integration with TailwindCSS styling
 
 ## 📫 Connect with me
 
