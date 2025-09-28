@@ -1,4 +1,4 @@
-# 👋 Hello, I'm zhangxing!
+# 👋 Hello, I'm Not996NotOT!
 
 <div align="center">
   
@@ -19,17 +19,17 @@
 <div align="center">
   
   <!-- GitHub统计卡片 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhangxing&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Not996NotOT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
   <!-- 语言统计卡片 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangxing&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Not996NotOT&layout=compact&theme=tokyonight"/>
   
 </div>
 
 <div align="center">
   
   <!-- GitHub连击统计 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhangxing&theme=tokyonight" alt="zhangxing" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Not996NotOT&theme=tokyonight" alt="Not996NotOT" />
   
 </div>
 
@@ -37,7 +37,7 @@
 
 <div align="center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=zhangxing&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=Not996NotOT&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
   
 </div>
 
@@ -65,7 +65,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhangxing&theme=tokyo-night&bg_color=1A1B27&color=70A5FD&line=70A5FD&point=F8D866&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Not996NotOT&theme=tokyo-night&bg_color=1A1B27&color=70A5FD&line=70A5FD&point=F8D866&area=true&hide_border=true" />
   
 </div>
 
@@ -73,22 +73,22 @@
 
 <div align="center">
   
-  <a href="https://github.com/zhangxing/Not996NotOT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhangxing&repo=Not996NotOT&theme=tokyonight" />
+  <a href="https://github.com/Not996NotOT/Not996NotOT">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Not996NotOT&repo=Not996NotOT&theme=tokyonight" />
   </a>
   
 </div>
 
 ## 🌟 Featured Projects
 
-- 🚀 **[Not996NotOT](https://github.com/zhangxing/Not996NotOT)** - 反对996，支持加班费的倡议项目
+- 🚀 **[Not996NotOT](https://github.com/Not996NotOT/Not996NotOT)** - 反对996，支持加班费的倡议项目
 - 💼 更多项目正在开发中...
 
 ## 📫 Connect with me
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhangxing)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Not996NotOT)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
   
 </div>
@@ -105,9 +105,9 @@
 
 <div align="center">
   
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=zhangxing.zhangxing)
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Not996NotOT.Not996NotOT)
   
-  ⭐️ From [zhangxing](https://github.com/zhangxing)
+  ⭐️ From [Not996NotOT](https://github.com/Not996NotOT)
   
 </div>
 
