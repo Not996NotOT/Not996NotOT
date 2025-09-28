@@ -136,6 +136,22 @@
 - ⚛️ **[react_hooks](https://github.com/Not996NotOT/react_hooks)** - React-like hooks implementation for Flutter state management
 - 🍃 **[swiftui_tailwindcss](https://github.com/Not996NotOT/swiftui_tailwindcss)** - SwiftUI integration with TailwindCSS styling
 
+## 🔮 Future Vision
+
+I'm actively building useful packages and contributing to the open-source community. If you have suitable job opportunities that align with creating valuable tools and fostering innovation, I'd be very interested in joining your team!
+
+**What I'm passionate about:**
+- 📦 Creating developer-friendly packages and tools
+- 🌍 Contributing to open-source projects
+- 💡 Building solutions that make developers' lives easier
+- 🤝 Collaborating with like-minded teams
+
+**Currently exploring opportunities in:**
+- Frontend/Full-stack development roles
+- Developer tooling and package development
+- Open-source focused companies
+- Teams that value work-life balance (Anti-996!)
+
 ## 📫 Connect with me
 
 <div align="center">
