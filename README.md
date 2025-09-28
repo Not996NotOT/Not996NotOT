@@ -1,4 +1,4 @@
-# 👋 Hello, I'm zhangxing.
+# 👋 Hello, I'm zhangxing!
 
 <div align="center">
   
@@ -38,16 +38,32 @@
 
 <div align="center">
 
+**Programming Languages:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![C%23](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+**Frontend Frameworks:**
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+**Mobile & Desktop Frameworks:**
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
+![WPF](https://img.shields.io/badge/-WPF-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![WinForms](https://img.shields.io/badge/-WinForms-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+**Web Technologies:**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Tools & Runtime:**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -128,7 +144,6 @@
 </div>
 
 ## 🌟 Featured Projects
-- 🚀 **[Not996NotOT](https://github.com/Not996NotOT/Not996NotOT)** - Anti-996 initiative project supporting overtime compensation
 - 🖼️ **[vue-mobx-framework](https://github.com/Not996NotOT/vue-mobx-framework)** - Framework based on Vue2, TSX, and TypeScript
 - 🎨 **[tailwindcss_build](https://github.com/Not996NotOT/tailwindcss_build)** - Flutter plugin for TailwindCSS integration
 - ⭐ **[five_pointed_star](https://github.com/Not996NotOT/five_pointed_star)** - Simple five-pointed star control widget (Dart)
@@ -193,7 +208,7 @@ I'm actively building useful packages and contributing to the open-source commun
   
   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Not996NotOT.Not996NotOT)
   
-  ⭐️ From [Not996NotOT](https://github.com/Not996NotOT)
+  ⭐️ From [zhangxing](https://github.com/Not996NotOT)
   
 </div>
 
